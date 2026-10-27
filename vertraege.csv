@@ -1,0 +1,14 @@
+vertragsnummer,kunde,alter,tarif,versicherungssumme,monatsbeitrag,status
+LV-1001,Anna Müller,34,Basis,100000,16.67,aktiv
+LV-1002,Mehmet Yilmaz,28,Komfort,150000,15.00, Aktiv
+LV-1003,Laura Schmidt,52,premium,200000,66.67,AKTIV
+LV-1004,Jonas Weber,45,Basis,80000,13.33,beitragsfrei
+LV-1005,Sofia Rossi,17,Basis,50000,4.17,aktiv
+LV-1006,Paul Fischer,39,Komfort,120000,,aktiv
+LV-1002,Mehmet Yilmaz,28,Komfort,150000,15.00, Aktiv
+LV-1007,Elif Kaya,61,Premium,250000,83.33,gekuendigt
+LV-1008,Tim Becker,70,Basis,60000,20.00,aktiv
+LV-1009,Lena Wagner,31,komfort,90000,15.00,aktiv
+LV-1010,Max Hoffmann,26,Basis,100000,-8.33,aktiv
+LV-1011,Clara Schulz,48,Premium,300000,100.00,unbekannt
+LV-1012,Ali Demir,36, Basis ,110000,18.33,beitragsfrei
